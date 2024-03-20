@@ -1,11 +1,10 @@
 
 <b>⚡ Competitive Programming</b>
-<p float="left">
-  
-![](https://raw.githubusercontent.com/biswa-rx/CF-Status/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/biswa-rx/CF-Status/main/output/light_card.svg#gh-light-mode-only)
-![](https://leetcard.jacoblin.cool/biswa_rx?theme=light&font=Karma%20Grotesk&ext=heatmap)
-</p>
+
+<div style="display: flex; flex-direction: row;">
+    <img src="https://raw.githubusercontent.com/biswa-rx/CF-Status/main/output/light_card.svg#gh-dark-mode-only" alt="Image 1" style="width: 45%;">
+    <img src="https://leetcard.jacoblin.cool/biswa_rx?theme=light&font=Karma%20Grotesk&ext=heatmap" alt="Image 2" style="width: 50%;">
+</div>
 
 <!--
 **biswa-rx/biswa-rx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
