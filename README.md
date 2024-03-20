@@ -2,6 +2,7 @@
 <b>⚡ Competitive Programming</b>
 
 <div style="display: flex; flex-direction: row;">
+    <img src="https://raw.githubusercontent.com/biswa-rx/CF-Status/main/output/light_card.svg#gh-light-mode-only" alt="Image 1" style="width: 45%;">
     <img src="https://raw.githubusercontent.com/biswa-rx/CF-Status/main/output/light_card.svg#gh-dark-mode-only" alt="Image 1" style="width: 45%;">
     <img src="https://leetcard.jacoblin.cool/biswa_rx?theme=light&font=Karma%20Grotesk&ext=heatmap" alt="Image 2" style="width: 50%;">
 </div>
