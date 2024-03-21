@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF0000&repeat=false&random=false&width=435&lines=Competitive+programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFAC&repeat=false&random=false&width=435&lines=Competitive+programming)](https://git.io/typing-svg)
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://raw.githubusercontent.com/biswa-rx/CF-Status/main/output/light_card.svg#gh-light-mode-only" alt="Image 1" style="width: 45%;">
